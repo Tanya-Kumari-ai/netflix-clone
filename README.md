@@ -1,4 +1,4 @@
 # netflix-clone
 using html and css
 
-https://scintillating-cranachan-4770e8.netlify.app/
+https://hilarious-nasturtium-287c5d.netlify.app/
